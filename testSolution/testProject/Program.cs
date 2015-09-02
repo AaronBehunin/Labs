@@ -12,6 +12,9 @@ namespace testProject
         {
             Console.Write("Hello World");
             Console.Read();
+            Console.Write("What is up?");
+            Console.Read();
+
         }
     }
 }
